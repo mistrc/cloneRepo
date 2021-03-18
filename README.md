@@ -11,3 +11,4 @@ second change on a different branch
 
 this line should conflict now
 
+somethig on a feature
